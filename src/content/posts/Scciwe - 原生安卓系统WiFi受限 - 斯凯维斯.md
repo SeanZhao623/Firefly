@@ -1,10 +1,15 @@
-微信  
-微信扫码分享  
+---
+title: 原生安卓系统WiFi受限
+published: 2025-03-25
+description: 原生的安卓系统的设置在中国部分不使用，所以需要更改一下
+image: ./cover.jpg
+tags: [安卓，原生系统，WiFi]
+category: 手机
+draft: false
+---
 
 ## 原生安卓系统WiFi受限
 
-2024-4-23  
-128  
 1、首先打开手机的开发这模式，并且打开USB调试以及OEM引导解锁
 
 2、下载ADB工具，并且解压到单独的文件夹里
@@ -72,12 +77,6 @@ adb shell settings put global ntp_server ntp.aliyun.com
 ```
 
 之后重启手机即可  
-分类：  
-标签：  
-版权申明  
-本文系作者
-
-原创发布在原生安卓系统WiFi受限 - 斯凯维斯。未经许可，禁止转载。
 
 ### 评论
 
