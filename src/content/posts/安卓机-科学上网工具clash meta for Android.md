@@ -2,7 +2,7 @@
 title: 安卓机-科学上网工具clash meta for Android
 published: 2026-06-17
 description: Clash Meta For Android是基于Clash Meta(mihomo)内核的Android系统即安卓手机系统的代理工具图形客户端，功能强大且支持多种代理协议。
-image: ./cover.jpg
+image: https://i.ytimg.com/vi/aKOQene6fZ8/sddefault.jpg
 tags: [代理工具]
 category: 代理工具
 draft: false
