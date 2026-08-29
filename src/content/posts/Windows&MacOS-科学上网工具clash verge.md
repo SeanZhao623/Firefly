@@ -2,7 +2,7 @@
 title: Windows/MacOS-科学上网工具clash verge
 published: 2026-06-18
 description: Clash是一个跨平台的基于规则的代理工具，在网络和应用层运行，它已被互联网用户广泛采用
-image: ./cover.jpg
+image: https://clash-verge.com/images/clash-verge-rev-cover.webp
 tags: [科学上网工具，代理工具]
 category: 代理工具
 draft: false
