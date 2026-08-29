@@ -8,6 +8,7 @@ category: 代理工具
 draft: false
 ---
 
+
 Clash Meta For Android是基于Clash Meta(mihomo)内核的Android系统即安卓手机系统的代理工具图形客户端，功能强大且支持多种代理协议，如Shadowsocks (SS)、ShadowsocksR (SSR)、Trojan、V2Ray等科学上网代理协议
 
 1、首先下载apk安装包：下载[cmfa-2.11.32-meta-universal-release.apk](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk)
