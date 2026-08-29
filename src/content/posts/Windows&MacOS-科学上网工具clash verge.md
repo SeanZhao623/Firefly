@@ -15,7 +15,9 @@ Clash是一个跨平台的基于规则的代理工具，在网络和应用层运
 
 ### 1、首先下载、安装软件：下载
 win：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe
+
 MacOS（Intel芯片）：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64.dmg
+
 MacOS（M芯片）：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_aarch64.dmg
 ### 2、导入订阅
 复制订阅链接，打开安装好的clash，点击左侧订阅，将订阅链接导入
