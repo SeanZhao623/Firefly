@@ -34,4 +34,4 @@ IOS、macOS（M系列芯片）、 iPadOS等设备优先推荐使用该软件搭�
 配置二维码
 ![](https://kb.scciwe.com/content/uploadfile/202608/94141787060505.png)
 
-无法扫码时，复制这个链接，点击配置界面的右上角“+”，从URL下载
+无法扫码时，复制这个链接 https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf ，点击配置界面的右上角“+”，从URL下载
