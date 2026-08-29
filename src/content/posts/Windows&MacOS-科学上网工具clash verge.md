@@ -28,7 +28,7 @@ MacOS（M芯片）：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 ### 3、配置项目
 代理栏内一般保持默认即可，通常会配备常规节点和备用节点，尽量不要使用备用节点（多人使用，网速较慢）
-保持规则按钮即可，其他不要点
+保持规则按钮即可，其他不要点，选择节点时，优先使用VWT结尾的节点
 ![](https://kb.scciwe.com/content/uploadfile/202608/b5e31787057556.png)
 
 ### 4、开始使用
@@ -38,3 +38,8 @@ MacOS（M芯片）：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 下方有测试栏，Google显示数值后，即为正常翻墙
 ![](https://kb.scciwe.com/content/uploadfile/202608/5a821787057949.png)
+
+
+### 常见问题：
+1、导入订阅链接时显示错误，优先检查代理软件的版本，目前最新版为2.5.2,2.4.7版本已经会显示导入失败
+2、节点显示数量少：这是搭建的协议少，不影响科学上网，一般只有一个服务器，再多协议都是走一个出口，协议多了也没用
