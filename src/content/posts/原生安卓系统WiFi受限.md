@@ -2,7 +2,7 @@
 title: 原生安卓系统WiFi受限
 published: 2025-03-25
 description: 原生的安卓系统的设置在中国部分不使用，所以需要更改一下
-image: ./cover.jpg
+image: https://img.soundofhope.org/2016/11/android-smartphone1-1.jpg
 tags: [安卓，原生系统，WiFi]
 category: 手机
 draft: false
