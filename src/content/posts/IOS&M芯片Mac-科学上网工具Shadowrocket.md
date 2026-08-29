@@ -3,7 +3,7 @@ title: IOS/M芯片Mac-科学上网工具Shadowrocket
 published: 2026-08-18
 description: Shadowrocket（中文用户常称为 小火箭）使用教程
 image: https://image.momoproxy.com/20240902_1725272975050.png
-tags: [Shadowrocket，小火箭，IOS，科学上网工具，代理工具]
+tags: [代理工具]
 category: 代理工具
 draft: false
 series: 代理工具
