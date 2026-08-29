@@ -1,44 +1,31 @@
 ---
-title: Firefly 一款清新美观的 Astro 博客主题模板
-published: 1970-01-02
+title: 科学上网-前言
+published: 2026-08-29
 pinned: true
-description: Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-tags: [Markdown, Firefly, 博客, 主题, 模板]
-category: 文章示例
+description: 由于大陆与国际的网络线路被严格限制，正常无法直接访问国外的信息，比如使用Google、观看YouTube等等，所以开始有科学上网的访问方式，也称为翻墙。
+tags: [科学上网，翻墙，VPN]
 image: ./images/firefly2.avif
 slug: firefly
-series: "Firefly 功能示例"
-seriesOrder: 4
+seriesOrder: 1
 ---
 
-## 🌟 项目概述
+由于大陆与国际的网络线路被严格限制，正常无法直接访问国外的信息，比如使用Google、观看YouTube等等，所以开始有科学上网的访问方式，也称为翻墙。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+> 这些内容不适合公开在微信私聊或群聊中描述，所以需要隐晦交谈
 
+翻墙就需要有梯子🪜，所以我们通常所需要的东西就是梯子，也就是搭建的科学上网节点（节点的集合是订阅）
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+在不同的设备上（iOS、Android、Windows、macOS、iPadOS或是安卓平板）需要不同的工具承载梯子，这是我们常用的、安全性更高的翻墙方式，这些工具有些收费（如shadowrocket），也有免费的（如V2rayN、V2rayNG、Clash、Hiddify、sing-box等）
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+科学上网经历的过程很复杂，也很曲折，不过多赘述，可以自行Google了解
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+主要说明一下：
+1、搭建的订阅节点不是一劳永逸的，在长城防火墙不断进步的时候会被封锁，所以会不断的更新
+2、节点的搭建也是非常复杂的内容，使用者的需求不同会衍生出非常多的变化（有些使用者用于运行跨境站、 TikTok、社媒，有些则很简单的浏览外网等等），不同的需求所产生的费用各不相同，要求越高花费越高，在这方面一分钱一分货，不要想着白嫖，到头来会害了自己
+3、本站竭力提供越来越优化的体验，还在不断进步中，目前简化一些项目，复杂了以后容易懵圈，所以去掉繁杂的前端工作，只保留简易的操作流程
+4、其他文章提供了一些常用的工具教程，使用过程中仔细查看教程，有任何问题可以询问
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
-![Firefly](./images/1.avif)
-
-
-## 🚀 技术架构
-
-- **静态站点生成**: 基于 Astro ，提供极快的加载速度和优秀的 SEO 优化
-- **TypeScript 支持**: 完整的类型安全，提升开发体验和代码质量
-- **响应式设计**: 使用 Tailwind CSS 构建，完美适配桌面端和移动端
-- **组件化开发**: 支持 Astro、Svelte 组件，灵活可扩展
-
-
-## 📖 配置说明
-
-> 📚 **详细配置文档**: 查看 [Firefly 使用文档](https://docs-firefly.cuteleaf.cn/) 获取完整的配置指南
+最后，强烈建议下载和使用更安全的沟通途径，Telegram，俗称电报
+1、苹果用户可以在海外ID的app store中下载
+2、安卓、Windows用户可以下载安装包进行使用
+（两者都需要科学上网的环境下使用）
