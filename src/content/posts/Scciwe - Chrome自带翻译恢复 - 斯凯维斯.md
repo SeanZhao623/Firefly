@@ -9,12 +9,6 @@ draft: false
 ---
 
 
-[](https://scciwe.com/?author=1)
-
-[![](https://scciwe.com/favicon.ico)](https://scciwe.com/?author=1)
-
-[Scciwe](https://scciwe.com/?author=1)
-
 Google 发言人称因“使用率太低”谷歌翻译服务已正式退出中国。
 
 为Windows和MacOS提供解决办法
