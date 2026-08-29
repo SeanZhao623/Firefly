@@ -2,7 +2,7 @@
 title: Chrome自带翻译恢复
 published: 2026-04-17
 description: Chrome浏览器自带的google翻译的功能修复
-image: https://ask.qcloudimg.com/http-save/yehe-9921450/f9421d8a6585c143aa1be392fb53e7c3.jpg
+image: https://www.newmobilelife.com/wp-content/uploads/2021/01/google-translate.jpg
 tags: [浏览器，翻译，google翻译]
 category: 工具功能
 draft: false
