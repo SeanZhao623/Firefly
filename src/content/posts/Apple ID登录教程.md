@@ -11,14 +11,7 @@ draft: false
 ### 方式1：全程在app store中操作
 
 <img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/46289201-7a87-4b1b-b708-9d93191e57b1" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/6e16ea08-1cf3-4770-a775-7879348b1114" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/407dba98-4e5e-4af6-b82d-6a54e5e3a110" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/94c7d361-0c21-4085-909d-34dc5b509b52" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/4bb2da84-75cf-4351-96cc-f4b25e25dadc" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/f25bb7c9-c817-40af-bbfb-18c1c3ba9367" />
-<img width="1600" height="1930" alt="image" src="https://github.com/user-attachments/assets/c6cbd653-ced8-496e-85cd-940f2bfd393b" />
-<img width="1600" height="1089" alt="image" src="https://github.com/user-attachments/assets/54552bb3-0d97-40f8-8e04-371f8e37380c" />
-<img width="1600" height="1089" alt="image" src="https://github.com/user-attachments/assets/6ee2ffe8-e37b-4476-9fc3-ccb8e61ed7f7" />
+
 <img width="1600" height="1089" alt="image" src="https://github.com/user-attachments/assets/ebe1c6e6-a4f3-4265-b816-818e722227dd" />
 
 
