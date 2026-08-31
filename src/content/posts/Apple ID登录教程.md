@@ -2,7 +2,7 @@
 title: Apple ID登录教程
 published: 2026-08-15
 description: 介绍海外ID的登录方式
-image: ./cover.jpg
+image: https://blog.prestmit.io/wp-content/uploads/2024/11/appleid.webp
 tags: [Apple ID]
 category: 手机
 draft: false
