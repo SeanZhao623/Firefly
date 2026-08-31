@@ -2,7 +2,7 @@
 title: 安全交流 - Telegram（小飞机）
 published: 2026-08-31
 description: Telegram（非正式简称TG、电报、纸飞机、飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
-image: <img width="474" height="248" alt="image" src="https://github.com/user-attachments/assets/10cc6675-c94d-44c3-a366-4a74bfc3767b" />
+image: https://www.elternguide.online/wp-content/uploads/2018/02/telegram_logo.png
 tags: [聊天]
 category: 工具
 draft: false
