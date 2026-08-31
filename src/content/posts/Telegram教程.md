@@ -2,7 +2,7 @@
 title: 安全交流 - Telegram（小飞机）
 published: 2026-08-31
 description: Telegram（非正式简称TG、电报、纸飞机、飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
-image: https://blog.desdelinux.net/wp-content/uploads/2019/03/telegram-app-1-6-imagen-principal-blog-desdelinux.jpg
+image: <img width="474" height="248" alt="image" src="https://github.com/user-attachments/assets/10cc6675-c94d-44c3-a366-4a74bfc3767b" />
 tags: [聊天]
 category: 工具
 draft: false
@@ -18,6 +18,7 @@ Telegram相较于Weixin更安全，该软件的聊天记录不会被监控，可
 
 #### 苹果手机：按照图片操作登录美区的苹果ID，并在App Store搜索Telegram，下载安装
 文字步骤：【设置】-【Apple账户】-【媒体与购买项目】-【不是****】-输入上面的账密-【其他选项】-【不升级】 
+
 图示步骤：
 <img width="1536" height="666" alt="image" src="https://github.com/user-attachments/assets/aa396b15-326b-4668-a27b-38571939a5ff" />
 <img width="1536" height="824" alt="image" src="https://github.com/user-attachments/assets/c05a4092-66c3-4059-bca2-b049bd21633e" />
@@ -29,8 +30,11 @@ Telegram相较于Weixin更安全，该软件的聊天记录不会被监控，可
 
 ### 第三步
 点击下面的代理链接
+
 [临时代理1](tg://proxy?server=2407:d140:1:100:9000:9000:37a9:b203&port=11433&secret=3d81295812e731bef2e3d1b3e12399e2)  
+
 [临时代理2](tg://proxy?server=156.239.251.15&port=443&secret=ee0a3cf3f53d8ff9a32f1370ff08a6837c7777772e62696e672e636f6d)
+
 （都是临时代理，只用于临时注册登录）
 
 <img width="500" height="428" alt="image" src="https://github.com/user-attachments/assets/5b8f1245-c56f-4062-ad0e-f4c489f73f09" />
@@ -43,5 +47,5 @@ Telegram相较于Weixin更安全，该软件的聊天记录不会被监控，可
 
 
 >请首先联系技术人员进行处理，技术人员会通过别的方式帮你注册
->会要求添加邮箱，输入邮箱接收验证码，点击下一步 会给手机号发送验证码，输入验证码，点击下一步 会要求输入名字，可以先随便输入，不要输入中文名字以及拼音 然后就进入了软件的主界面 进到app主界面，至此已完成99%，接下来只需要将手机号提供给【管理员】，等待邀请入群即可。**
+>会要求添加邮箱，输入邮箱接收验证码，点击下一步 会给手机号发送验证码，输入验证码，点击下一步 会要求输入名字，可以先随便输入，不要输入中文名字以及拼音 然后就进入了软件的主界面 进到app主界面，至此已完成99%，接下来只需要将手机号提供给【管理员】，等待邀请入群即可。
 
